@@ -1,3 +1,5 @@
+### To Access Lab File Open "Files" dir.
+
 XGraph 4.38 - July 30, 2018
 -----------
 
